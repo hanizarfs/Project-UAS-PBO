@@ -1,5 +1,5 @@
 # Project-UAS-PBO
-Menerapkan konsep abstract dan interface
+Menerapkan konsep abstract dan interface pada Pemrograman Berorientasi Object Java
 
 Kelompok 7
   - K3521013	Astrid Nadia Alimah
